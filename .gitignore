@@ -1,0 +1,7 @@
+*.config
+*.aps
+*.rc
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64
